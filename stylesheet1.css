@@ -1,0 +1,31 @@
+body {
+text-align:center;
+background-image:url(wallpapers.jpg);
+margin:0px;
+font-size:14px;
+font-family:Verdana, Georgia, serif;
+}
+h1{
+text-align:center;
+backround-color:blue;
+margin-left:400px;
+margin-right:400px;
+}
+img.image{
+margin-left:10px;
+border-radius:10px;
+hight:800px
+width:800px
+}
+p.capitan{
+margin-left:400px
+margin-right:400px
+padding:20px;
+background-color:skyblue;
+border-radius:10px;
+}
+.page{
+margin-left:200px;
+margin-right:200px;
+padding:10px;
+}

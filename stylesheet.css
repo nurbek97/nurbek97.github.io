@@ -1,0 +1,46 @@
+body {
+background-image: url(walpaper.jpg);
+margin: 0px;
+font-size: 14px;
+font-family:Verdana, Georgia, serif;
+text-align:center;
+}
+
+h1{
+background-color:powderblue;
+border-radius:5px;
+margin-left:60px;
+margin-right:60px;
+padding:10px;
+}
+img.image{
+margin-left:10px;	
+width:200px;
+height:200px;
+border-radius:10px;
+}
+h2{
+margin:10px;
+font-style:italic;
+background-color:skyblue;
+height:20px;
+font-size:100%;
+margin-left:400px;
+margin-right:400px;
+padding:10px;
+border-radius:10px;
+display: block;
+}
+h3{
+font-size:25px;
+text-align:center;
+color:red;
+}
+p.para{
+text-align:center;
+background-color:skyblue;
+margin-left:400px;
+margin-right:400px;
+border-radius:5px;
+padding:5px;
+}
